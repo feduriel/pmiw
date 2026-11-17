@@ -26,7 +26,7 @@ class Juego {
   }
   dibujar() {
     if(this.personaje.save==0 && this.personaje.vuelta==this.vuelta){
-      image(fondo[4],0,-50,(1672/2),(941/2));
+      image(fondo,0,-50,(1672/2),(941/2));
       this.dibujarPersonaje();
       this.npc.dibujar();
       image(farol,posfalx+(this.personaje.save),posfaly,(48*3),(105*3));
