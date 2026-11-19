@@ -1,3 +1,5 @@
+// https://youtu.be/t0CamwDbpg8
+// https://youtu.be/_B78IhzyKN0
 let fondo;
 let pj;
 let farol;
