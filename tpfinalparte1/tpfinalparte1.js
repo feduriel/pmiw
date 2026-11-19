@@ -1,3 +1,6 @@
+// https://youtu.be/eTdJh_BrjR4
+// https://youtu.be/x9DDEe5W8J4
+
 let fondo=[];
 let fonposx=0;
 let fonposy=0;
